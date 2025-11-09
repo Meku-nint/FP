@@ -1,0 +1,65 @@
+2025.11.09 09:41:03 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.09 09:41:03 INFO  no build target found for C:\coding\icog\Scala\Hellow.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.09 09:41:08 INFO  no build target found for C:\coding\icog\Scala\Hellow.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.09 09:41:08 INFO  no build target found for C:\coding\icog\Scala\Hellow.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.09 09:41:08 INFO  no build target found for C:\coding\icog\Scala\Hellow.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.09 09:41:08 INFO  no build target found for C:\coding\icog\Scala\Hellow.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.09 09:41:09 INFO  no build target found for C:\coding\icog\Scala\Hellow.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.09 09:41:10 INFO  no build target found for C:\coding\icog\Scala\Hellow.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.09 09:41:12 INFO  no build target found for C:\coding\icog\Scala\Hellow.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.09 09:41:12 INFO  no build target found for C:\coding\icog\Scala\Hellow.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.09 09:41:12 INFO  no build target found for C:\coding\icog\Scala\Hellow.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.09 09:41:13 INFO  no build target found for C:\coding\icog\Scala\Hellow.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.09 09:41:14 WARN  no build target for: C:\coding\icog\Scala\Hellow.scala
+2025.11.09 09:41:13 INFO  no build target found for C:\coding\icog\Scala\Hellow.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.09 09:41:13 INFO  no build target found for C:\coding\icog\Scala\Hellow.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.09 09:41:13 INFO  no build target found for C:\coding\icog\Scala\Hellow.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.09 09:41:14 INFO  no build target found for C:\coding\icog\Scala\Hellow.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.09 09:41:13 INFO  no build target found for C:\coding\icog\Scala\Hellow.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.09 09:41:14 INFO  no build target found for C:\coding\icog\Scala\Hellow.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.09 09:41:15 INFO  Running List(C:\Users\User\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\coding\icog)
+2025.11.09 09:41:16 INFO  no build target found for C:\coding\icog\Scala\Hellow.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.09 09:41:17 INFO  no build target found for C:\coding\icog\Scala\Hellow.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.09 09:41:17 INFO  no build target found for C:\coding\icog\Scala\Hellow.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.09 09:41:18 INFO  no build target found for C:\coding\icog\Scala\Hellow.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.09 09:41:19 INFO  Attempting to connect to the build server...
+2025.11.09 09:41:19 INFO  Running BSP server List(C:\Users\User\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\coding\icog\.scala-build\ide-options-v2.json, --json-launcher-options, C:\coding\icog\.scala-build\ide-launcher-options.json, --envs-file, C:\coding\icog\.scala-build\ide-envs.json, C:\coding\icog)
+2025.11.09 09:41:19 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\coding\icog\.metals\bsp.trace.json or C:\Users\User\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.11.09 09:41:22 INFO  time: Connected to build server in 3.29s
+2025.11.09 09:41:22 INFO  Connected to Build server: scala-cli v1.10.0
+2025.11.09 09:41:22 INFO  time: Imported build in 0.23s
+2025.11.09 09:41:23 INFO  compiling icog_0c32c0c7a5 (1 scala source)
+2025.11.09 09:41:23 INFO  time: compiled icog_0c32c0c7a5 in 0.78s
+2025.11.09 09:41:29 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.09 09:41:33 INFO  time: indexed workspace in 10s
+2025.11.09 09:41:34 INFO  no build target found for C:\coding\icog\Scala\Hello.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.09 09:41:34 INFO  no build target found for C:\coding\icog\Scala\Hello.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.09 09:41:34 INFO  no build target found for C:\coding\icog\Scala\Hello.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.09 09:41:34 INFO  Cancelling compilation on scala-cli server
+Nov 09, 2025 9:41:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40
+2025.11.09 09:41:34 INFO  no build target found for C:\coding\icog\Scala\Hello.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.09 09:41:34 INFO  no build target found for C:\coding\icog\Scala\Hello.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.09 09:41:34 INFO  compiling icog_0c32c0c7a5 (1 scala source)
+2025.11.09 09:41:34 WARN  no build target for: C:\coding\icog\Scala\Hello.scala
+2025.11.09 09:41:34 INFO  time: Imported build in 0.15s
+2025.11.09 09:41:34 INFO  Deduplicating compilation of icog_0c32c0c7a5 from bsp client 'scala-cli 1.10.0' (since 13.339s)
+2025.11.09 09:41:34 INFO  compiling icog_0c32c0c7a5 (1 scala source)
+2025.11.09 09:41:34 INFO  time: compiled icog_0c32c0c7a5 in 0.63s
+2025.11.09 09:41:39 INFO  time: code lens generation in 5.04s
+2025.11.09 09:41:39 INFO  time: code lens generation in 5.04s
+2025.11.09 09:41:44 INFO  time: indexed workspace in 9.42s
+2025.11.09 09:41:54 INFO  compiling icog_0c32c0c7a5 (1 scala source)
+2025.11.09 09:41:56 INFO  time: compiled icog_0c32c0c7a5 in 2.35s
+Nov 09, 2025 9:43:40 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 09, 2025 9:43:43 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 09, 2025 9:44:47 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 09, 2025 9:44:51 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.11.09 09:52:48 INFO  Shutting down server
+2025.11.09 09:52:48 INFO  shutting down Metals
+2025.11.09 09:52:48 INFO  Shut down connection with build server.
+2025.11.09 09:52:48 INFO  Exiting server
