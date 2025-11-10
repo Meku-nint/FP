@@ -335,3 +335,566 @@ Nov 10, 2025 9:16:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellat
 WARNING: Unmatched cancel notification for request id 920
 2025.11.10 09:16:37 INFO  compiling icog_0c32c0c7a5 (1 scala source)
 2025.11.10 09:16:38 INFO  time: compiled icog_0c32c0c7a5 in 1.11s
+Nov 10, 2025 9:18:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1128
+Nov 10, 2025 9:18:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1171
+Nov 10, 2025 9:18:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1241
+Nov 10, 2025 9:19:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1326
+2025.11.10 09:19:49 INFO  compiling icog_0c32c0c7a5 (1 scala source)
+2025.11.10 09:19:50 INFO  time: compiled icog_0c32c0c7a5 in 1.22s
+Nov 10, 2025 9:25:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1447
+Nov 10, 2025 9:25:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1451
+Nov 10, 2025 9:26:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1490
+Nov 10, 2025 9:26:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1500
+Nov 10, 2025 9:26:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1512
+Nov 10, 2025 9:26:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1554
+Nov 10, 2025 9:26:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1560
+Nov 10, 2025 9:26:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1625
+Nov 10, 2025 9:26:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1626
+Nov 10, 2025 9:26:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1637
+Nov 10, 2025 9:27:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1848
+2025.11.10 09:27:39 INFO  compiling icog_0c32c0c7a5 (1 scala source)
+2025.11.10 09:27:43 INFO  time: compiled icog_0c32c0c7a5 in 3.46s
+Nov 10, 2025 9:32:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1932
+Nov 10, 2025 9:32:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2058
+Nov 10, 2025 9:33:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2322
+Nov 10, 2025 9:33:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2408
+Nov 10, 2025 9:34:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2466
+2025.11.10 09:35:47 INFO  compiling icog_0c32c0c7a5 (1 scala source)
+2025.11.10 09:35:50 INFO  time: compiled icog_0c32c0c7a5 in 3.17s
+Nov 10, 2025 9:35:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2739
+Nov 10, 2025 9:35:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2794
+2025.11.10 09:39:52 WARN  Could not load snapshot text for C:\coding\icog\ScalaProgramming\My_module.scala
+2025.11.10 09:39:53 INFO  compiling icog_0c32c0c7a5 (1 scala source)
+2025.11.10 09:39:53 WARN  Could not load snapshot text for C:\coding\icog\ScalaProgramming\My_module.scala
+2025.11.10 09:39:54 INFO  time: compiled icog_0c32c0c7a5 in 1.89s
+2025.11.10 09:40:26 INFO  compiling icog_0c32c0c7a5 (1 scala source)
+2025.11.10 09:40:27 INFO  time: compiled icog_0c32c0c7a5 in 1.22s
+Nov 10, 2025 9:40:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3159
+Nov 10, 2025 9:41:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3381
+2025.11.10 09:41:31 INFO  compiling icog_0c32c0c7a5 (1 scala source)
+2025.11.10 09:41:32 INFO  time: compiled icog_0c32c0c7a5 in 1s
+Nov 10, 2025 9:42:06 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 10, 2025 9:42:28 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 10, 2025 9:43:10 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.11.10 09:44:18 INFO  compiling icog_0c32c0c7a5 (1 scala source)
+2025.11.10 09:44:20 INFO  time: compiled icog_0c32c0c7a5 in 1.42s
+2025.11.10 09:53:15 WARN  no build target for: C:\coding\icog\ScalaProgramming\Java\Hello.java
+2025.11.10 09:53:16 INFO  time: Imported build in 0.12s
+2025.11.10 09:53:16 INFO  compiling icog_0c32c0c7a5 (1 java source)
+2025.11.10 09:53:16 WARN  Running javac-semanticdb failed for file:///C:/coding/icog/ScalaProgramming/Java/Hello.java. Output:
+
+2025.11.10 09:53:21 INFO  Created report: Optional[file:///C:/coding/icog/ScalaProgramming/Java/Hello.java]
+2025.11.10 09:53:21 INFO  QDox parse error in file:///C:/coding/icog/ScalaProgramming/Java/Hello.java (full report at: "C:\coding\icog\.metals\.reports\metals-full\2025-11-10\r_qdox-error_(icog_5f0c32c0c7a5)_09-53-21-944.md")
+2025.11.10 09:53:22 INFO  time: indexed workspace in 6.25s
+Nov 10, 2025 9:53:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3623
+Nov 10, 2025 9:53:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3624
+Nov 10, 2025 9:53:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3622
+Nov 10, 2025 9:53:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3628
+Nov 10, 2025 9:53:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3629
+Nov 10, 2025 9:53:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3630
+Nov 10, 2025 9:53:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3634
+Nov 10, 2025 9:53:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3635
+Nov 10, 2025 9:53:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3637
+Nov 10, 2025 9:53:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3642
+Nov 10, 2025 9:53:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3644
+Nov 10, 2025 9:53:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3646
+Nov 10, 2025 9:53:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3647
+Nov 10, 2025 9:53:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3649
+Nov 10, 2025 9:53:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3651
+Nov 10, 2025 9:53:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3652
+Nov 10, 2025 9:53:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3654
+Nov 10, 2025 9:53:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3655
+Nov 10, 2025 9:53:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3657
+Nov 10, 2025 9:53:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3658
+Nov 10, 2025 9:53:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3661
+Nov 10, 2025 9:53:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3662
+Nov 10, 2025 9:53:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3663
+Nov 10, 2025 9:53:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3664
+Nov 10, 2025 9:53:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3666
+Nov 10, 2025 9:53:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3682
+Nov 10, 2025 9:53:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3683
+Nov 10, 2025 9:53:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3684
+Nov 10, 2025 9:53:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3685
+Nov 10, 2025 9:53:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3687
+Nov 10, 2025 9:53:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3688
+Nov 10, 2025 9:53:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3690
+Nov 10, 2025 9:53:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3691
+Nov 10, 2025 9:53:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3692
+Nov 10, 2025 9:53:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3694
+Nov 10, 2025 9:53:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3695
+Nov 10, 2025 9:53:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3699
+Nov 10, 2025 9:53:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3700
+Nov 10, 2025 9:53:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3681
+Nov 10, 2025 9:53:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3701
+Nov 10, 2025 9:53:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3702
+Nov 10, 2025 9:53:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3703
+Nov 10, 2025 9:53:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3704
+Nov 10, 2025 9:53:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3705
+Nov 10, 2025 9:53:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3706
+Nov 10, 2025 9:53:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3707
+Nov 10, 2025 9:53:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3708
+Nov 10, 2025 9:53:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3709
+Nov 10, 2025 9:53:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3710
+Nov 10, 2025 9:53:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3711
+Nov 10, 2025 9:53:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3712
+Nov 10, 2025 9:53:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3713
+Nov 10, 2025 9:53:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3714
+Nov 10, 2025 9:53:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3718
+2025.11.10 09:53:51 INFO  QDox parse error in file:///C:/coding/icog/ScalaProgramming/Java/Hello.java (full report at: "C:\coding\icog\.metals\.reports\metals-full\2025-11-10\r_qdox-error_(icog_5f0c32c0c7a5)_09-53-21-944.md")
+2025.11.10 09:53:52 INFO  compiling icog_0c32c0c7a5 (1 java source)
+2025.11.10 09:53:54 WARN  javac exited with exit code 1
+2025.11.10 09:53:54 INFO  time: compiled icog_0c32c0c7a5 in 1.89s
+Nov 10, 2025 9:54:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3774
+Nov 10, 2025 9:54:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3777
+Nov 10, 2025 9:54:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3778
+Nov 10, 2025 9:54:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3792
+Nov 10, 2025 9:54:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3794
+2025.11.10 10:07:46 INFO  compiling icog_0c32c0c7a5 (1 java source)
+2025.11.10 10:07:47 INFO  time: compiled icog_0c32c0c7a5 in 1.44s
+Nov 10, 2025 10:08:14 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 10, 2025 10:08:18 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 10, 2025 10:08:47 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 10, 2025 10:08:48 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.11.10 10:14:46 INFO  compiling icog_0c32c0c7a5 (1 scala source and 1 java source)
+2025.11.10 10:14:46 INFO  time: compiled icog_0c32c0c7a5 in 0.48s
+2025.11.10 10:15:08 INFO  time: compiled icog_0c32c0c7a5 in 12ms
+Nov 10, 2025 10:15:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4058
+2025.11.10 10:16:14 INFO  QDox parse error in file:///C:/coding/icog/ScalaProgramming/Java/Hello.java (full report at: "C:\coding\icog\.metals\.reports\metals-full\2025-11-10\r_qdox-error_(icog_5f0c32c0c7a5)_09-53-21-944.md")
+2025.11.10 10:16:14 INFO  compiling icog_0c32c0c7a5 (1 scala source and 1 java source)
+2025.11.10 10:16:14 INFO  time: compiled icog_0c32c0c7a5 in 0.4s
+2025.11.10 10:16:25 INFO  QDox parse error in file:///C:/coding/icog/ScalaProgramming/Java/Hello.java (full report at: "C:\coding\icog\.metals\.reports\metals-full\2025-11-10\r_qdox-error_(icog_5f0c32c0c7a5)_09-53-21-944.md")
+2025.11.10 10:17:16 INFO  compiling icog_0c32c0c7a5 (1 scala source and 1 java source)
+2025.11.10 10:17:16 INFO  time: compiled icog_0c32c0c7a5 in 0.36s
+Nov 10, 2025 10:17:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4441
+2025.11.10 10:17:35 INFO  compiling icog_0c32c0c7a5 (1 scala source and 1 java source)
+2025.11.10 10:17:35 INFO  time: compiled icog_0c32c0c7a5 in 0.13s
+2025.11.10 10:18:51 INFO  compiling icog_0c32c0c7a5 (1 scala source and 1 java source)
+2025.11.10 10:18:51 INFO  time: compiled icog_0c32c0c7a5 in 0.16s
+Nov 10, 2025 10:19:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/coding/icog/ScalaProgramming/Java/Hello.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:213)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:796)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:793)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:786)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+Nov 10, 2025 10:20:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4582
+2025.11.10 10:21:11 INFO  compiling icog_0c32c0c7a5 (1 scala source and 1 java source)
+2025.11.10 10:21:11 INFO  time: compiled icog_0c32c0c7a5 in 0.23s
+Nov 10, 2025 10:21:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4785
+2025.11.10 10:21:42 INFO  QDox parse error in file:///C:/coding/icog/ScalaProgramming/Java/Hello.java (full report at: "C:\coding\icog\.metals\.reports\metals-full\2025-11-10\r_qdox-error_(icog_5f0c32c0c7a5)_09-53-21-944.md")
+2025.11.10 10:21:42 INFO  compiling icog_0c32c0c7a5 (1 scala source and 1 java source)
+2025.11.10 10:21:42 INFO  time: compiled icog_0c32c0c7a5 in 0.24s
+2025.11.10 10:22:03 INFO  QDox parse error in file:///C:/coding/icog/ScalaProgramming/Java/Hello.java (full report at: "C:\coding\icog\.metals\.reports\metals-full\2025-11-10\r_qdox-error_(icog_5f0c32c0c7a5)_09-53-21-944.md")
+2025.11.10 10:29:05 INFO  compiling icog_0c32c0c7a5 (1 scala source and 1 java source)
+2025.11.10 10:29:05 INFO  time: compiled icog_0c32c0c7a5 in 0.16s
+Nov 10, 2025 11:16:38 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.11.10 11:17:37 INFO  no build target found for C:\coding\icog\ScalaProgramming\Factorial.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.10 11:17:37 WARN  no build target for: C:\coding\icog\ScalaProgramming\Factorial.scala
+2025.11.10 11:17:37 INFO  no build target found for C:\coding\icog\ScalaProgramming\Factorial.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.10 11:17:38 WARN  Could not find semantic tokens for: file:///C:/coding/icog/ScalaProgramming/Factorial.scala
+2025.11.10 11:17:38 INFO  no build target found for C:\coding\icog\ScalaProgramming\Factorial.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.10 11:17:38 INFO  no build target found for C:\coding\icog\ScalaProgramming\Factorial.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.10 11:17:39 INFO  compiling icog_0c32c0c7a5 (4 scala sources and 1 java source)
+2025.11.10 11:17:39 WARN  Could not find semantic tokens for: file:///C:/coding/icog/ScalaProgramming/Factorial.scala
+2025.11.10 11:17:39 WARN  Could not find semantic tokens for: file:///C:/coding/icog/ScalaProgramming/Factorial.scala
+2025.11.10 11:17:40 INFO  time: compiled icog_0c32c0c7a5 in 1.08s
+2025.11.10 11:17:40 INFO  compiling icog_0c32c0c7a5 (4 scala sources and 1 java source)
+2025.11.10 11:17:42 WARN  Could not find semantic tokens for: file:///C:/coding/icog/ScalaProgramming/Factorial.scala
+2025.11.10 11:17:42 WARN  Could not find semantic tokens for: file:///C:/coding/icog/ScalaProgramming/Factorial.scala
+2025.11.10 11:17:43 INFO  time: compiled icog_0c32c0c7a5 in 1.57s
+2025.11.10 11:17:44 INFO  compiling icog_0c32c0c7a5 (4 scala sources and 1 java source)
+2025.11.10 11:17:44 INFO  time: compiled icog_0c32c0c7a5 in 0.54s
+2025.11.10 11:17:47 INFO  time: indexed workspace in 8.03s
+2025.11.10 11:17:47 INFO  compiling icog_0c32c0c7a5 (4 scala sources and 1 java source)
+2025.11.10 11:17:47 INFO  time: compiled icog_0c32c0c7a5 in 0.65s
+Nov 10, 2025 11:17:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5076
+Nov 10, 2025 11:17:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5095
+Nov 10, 2025 11:17:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5117
+2025.11.10 11:17:59 INFO  compiling icog_0c32c0c7a5 (4 scala sources and 1 java source)
+2025.11.10 11:17:59 INFO  time: compiled icog_0c32c0c7a5 in 0.56s
+Nov 10, 2025 11:18:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5222
+Nov 10, 2025 11:18:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5238
+Nov 10, 2025 11:18:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5239
+Nov 10, 2025 11:18:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5246
+Nov 10, 2025 11:18:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5286
+Nov 10, 2025 11:25:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5482
+Nov 10, 2025 11:25:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5562
+Nov 10, 2025 11:25:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5564
+Nov 10, 2025 11:26:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5609
+Nov 10, 2025 11:26:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5713
+Nov 10, 2025 11:26:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5791
+2025.11.10 11:26:48 INFO  compiling icog_0c32c0c7a5 (4 scala sources and 1 java source)
+2025.11.10 11:26:52 INFO  time: compiled icog_0c32c0c7a5 in 4.13s
+Nov 10, 2025 11:27:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5868
+2025.11.10 11:27:46 INFO  compiling icog_0c32c0c7a5 (4 scala sources and 1 java source)
+2025.11.10 11:27:49 INFO  time: compiled icog_0c32c0c7a5 in 2.64s
+2025.11.10 11:28:05 INFO  compiling icog_0c32c0c7a5 (4 scala sources and 1 java source)
+2025.11.10 11:28:05 INFO  time: compiled icog_0c32c0c7a5 in 0.55s
+2025.11.10 11:28:16 INFO  compiling icog_0c32c0c7a5 (4 scala sources and 1 java source)
+2025.11.10 11:28:16 INFO  time: compiled icog_0c32c0c7a5 in 0.7s
+Nov 10, 2025 11:29:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6058
+Nov 10, 2025 11:29:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6066
+Nov 10, 2025 11:29:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6144
+Nov 10, 2025 11:30:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6324
+Nov 10, 2025 11:30:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6332
+Nov 10, 2025 11:30:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6340
+Nov 10, 2025 11:30:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6353
+Nov 10, 2025 11:30:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6457
+Nov 10, 2025 11:30:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6498
+Nov 10, 2025 11:30:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6505
+Nov 10, 2025 11:30:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6509
+Nov 10, 2025 11:31:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6565
+Nov 10, 2025 11:31:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6593
+Nov 10, 2025 11:31:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6676
+Nov 10, 2025 11:31:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6698
+2025.11.10 11:31:41 INFO  compiling icog_0c32c0c7a5 (4 scala sources and 1 java source)
+2025.11.10 11:31:44 INFO  time: compiled icog_0c32c0c7a5 in 2.74s
+Nov 10, 2025 11:57:17 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 10, 2025 11:57:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/coding/icog/ScalaProgramming/Java/Greetings.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:213)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:796)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:793)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:786)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+Nov 10, 2025 11:58:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/coding/icog/ScalaProgramming/Java/Greetings.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:213)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:796)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:793)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:786)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+Nov 10, 2025 11:58:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/coding/icog/ScalaProgramming/Java/Greetings.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:213)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:796)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:793)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:786)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+Nov 10, 2025 11:58:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/coding/icog/ScalaProgramming/Java/Greetings.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:213)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:796)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:793)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:786)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+2025.11.10 11:59:35 INFO  no build target found for C:\coding\icog\Exercise\Exercise21.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.10 11:59:35 INFO  no build target found for C:\coding\icog\Exercise\Exercise21.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.10 11:59:35 WARN  no build target for: C:\coding\icog\Exercise\Exercise21.scala
+2025.11.10 11:59:35 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise21.scala
+2025.11.10 11:59:36 INFO  no build target found for C:\coding\icog\Exercise\Exercise21.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.10 11:59:37 INFO  time: Imported build in 0.23s
+2025.11.10 11:59:37 INFO  compiling icog_0c32c0c7a5 (5 scala sources and 1 java source)
+2025.11.10 11:59:39 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise21.scala
+2025.11.10 11:59:42 INFO  time: compiled icog_0c32c0c7a5 in 5.21s
+2025.11.10 11:59:44 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise21.scala
+2025.11.10 11:59:45 INFO  compiling icog_0c32c0c7a5 (5 scala sources and 1 java source)
+2025.11.10 11:59:45 INFO  time: compiled icog_0c32c0c7a5 in 0.99s
+2025.11.10 11:59:47 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise21.scala
+2025.11.10 11:59:49 INFO  time: indexed workspace in 11s
+2025.11.10 11:59:49 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise21.scala
+2025.11.10 11:59:49 INFO  compiling icog_0c32c0c7a5 (5 scala sources and 1 java source)
+2025.11.10 11:59:49 INFO  time: compiled icog_0c32c0c7a5 in 0.64s
+2025.11.10 11:59:50 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise21.scala
+2025.11.10 11:59:52 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise21.scala
+2025.11.10 11:59:53 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise21.scala
+2025.11.10 11:59:53 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise21.scala
+2025.11.10 12:00:02 INFO  compiling icog_0c32c0c7a5 (5 scala sources and 1 java source)
+2025.11.10 12:00:02 INFO  time: compiled icog_0c32c0c7a5 in 0.51s
+Nov 10, 2025 12:00:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7103
+2025.11.10 12:00:59 INFO  compiling icog_0c32c0c7a5 (5 scala sources and 1 java source)
+2025.11.10 12:00:59 INFO  time: compiled icog_0c32c0c7a5 in 0.5s
+2025.11.10 12:02:00 INFO  compiling icog_0c32c0c7a5 (5 scala sources and 1 java source)
+2025.11.10 12:02:00 INFO  time: compiled icog_0c32c0c7a5 in 0.4s
+2025.11.10 12:02:06 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise21.scala
+2025.11.10 12:02:10 INFO  compiling icog_0c32c0c7a5 (5 scala sources and 1 java source)
+2025.11.10 12:02:10 INFO  time: compiled icog_0c32c0c7a5 in 0.55s
+2025.11.10 12:02:11 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise21.scala
+2025.11.10 13:31:16 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise21.scala
+2025.11.10 13:31:17 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise21.scala
+2025.11.10 13:31:18 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise21.scala
+2025.11.10 13:31:19 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise21.scala
+2025.11.10 13:31:20 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise21.scala
+2025.11.10 13:31:20 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise21.scala
+2025.11.10 13:31:24 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise21.scala
+2025.11.10 13:31:24 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise21.scala
+2025.11.10 13:31:25 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise21.scala
+2025.11.10 13:31:24 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise21.scala
+Nov 10, 2025 1:31:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7405
+2025.11.10 13:31:47 INFO  compiling icog_0c32c0c7a5 (5 scala sources and 1 java source)
+2025.11.10 13:31:47 INFO  time: compiled icog_0c32c0c7a5 in 0.91s
+Nov 10, 2025 1:32:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7444
+2025.11.10 13:33:33 INFO  compiling icog_0c32c0c7a5 (5 scala sources and 1 java source)
+2025.11.10 13:33:33 INFO  time: compiled icog_0c32c0c7a5 in 0.42s
+2025.11.10 13:33:43 INFO  compiling icog_0c32c0c7a5 (5 scala sources and 1 java source)
+2025.11.10 13:33:43 INFO  time: compiled icog_0c32c0c7a5 in 0.61s
+2025.11.10 13:33:56 INFO  compiling icog_0c32c0c7a5 (5 scala sources and 1 java source)
+2025.11.10 13:33:56 INFO  time: compiled icog_0c32c0c7a5 in 0.58s
+Nov 10, 2025 1:37:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8040
+2025.11.10 13:37:23 INFO  compiling icog_0c32c0c7a5 (5 scala sources and 1 java source)
+2025.11.10 13:37:23 INFO  time: compiled icog_0c32c0c7a5 in 0.61s
+2025.11.10 13:38:17 INFO  compiling icog_0c32c0c7a5 (5 scala sources and 1 java source)
+2025.11.10 13:38:17 INFO  time: compiled icog_0c32c0c7a5 in 0.35s
+Nov 10, 2025 1:47:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8307
+2025.11.10 13:47:58 INFO  compiling icog_0c32c0c7a5 (5 scala sources and 1 java source)
+2025.11.10 13:48:01 INFO  time: compiled icog_0c32c0c7a5 in 2.38s
+Nov 10, 2025 2:11:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8439
+2025.11.10 14:11:59 INFO  compiling icog_0c32c0c7a5 (5 scala sources and 1 java source)
+2025.11.10 14:12:01 INFO  time: compiled icog_0c32c0c7a5 in 2.73s
