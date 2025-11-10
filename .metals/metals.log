@@ -63,3 +63,200 @@ INFO: Unsupported notification method: $/setTrace
 2025.11.09 09:52:48 INFO  shutting down Metals
 2025.11.09 09:52:48 INFO  Shut down connection with build server.
 2025.11.09 09:52:48 INFO  Exiting server
+2025.11.09 10:00:23 INFO  Started: Metals version 1.6.3 in folders 'C:\coding\icog' for client Visual Studio Code 1.105.1.
+2025.11.09 10:00:45 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.09 10:00:45 INFO  no build target found for C:\coding\icog\Scala\Hello.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.09 10:00:47 INFO  Attempting to connect to the build server...
+2025.11.09 10:00:47 INFO  Running BSP server List(C:\Users\User\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\coding\icog\.scala-build\ide-options-v2.json, --json-launcher-options, C:\coding\icog\.scala-build\ide-launcher-options.json, --envs-file, C:\coding\icog\.scala-build\ide-envs.json, C:\coding\icog)
+2025.11.09 10:00:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\coding\icog\.metals\bsp.trace.json or C:\Users\User\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.11.09 10:00:50 INFO  time: Connected to build server in 3.3s
+2025.11.09 10:00:50 INFO  Connected to Build server: scala-cli v1.10.0
+2025.11.09 10:00:50 INFO  time: Imported build in 0.48s
+Nov 09, 2025 10:00:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Nov 09, 2025 10:00:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+Nov 09, 2025 10:00:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Nov 09, 2025 10:00:53 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.11.09 10:00:58 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.09 10:01:00 INFO  time: indexed workspace in 8.22s
+Nov 09, 2025 10:09:28 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 09, 2025 10:10:53 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 09, 2025 10:10:55 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 09, 2025 10:11:00 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 09, 2025 10:11:17 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 09, 2025 10:11:19 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 09, 2025 10:11:33 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 09, 2025 10:11:36 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 09, 2025 10:11:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 09, 2025 10:11:44 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 09, 2025 10:11:45 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 09, 2025 10:11:54 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 09, 2025 10:12:08 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 09, 2025 10:12:15 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 09, 2025 10:12:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39
+Nov 09, 2025 10:13:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 56
+2025.11.09 10:13:08 INFO  compiling icog_0c32c0c7a5 (1 scala source)
+2025.11.09 10:13:10 INFO  time: compiled icog_0c32c0c7a5 in 2.72s
+Nov 09, 2025 10:14:16 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 09, 2025 10:14:37 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.11.09 10:19:23 INFO  no build target found for C:\coding\icog\Scala\Side_effect.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.09 10:19:23 WARN  no build target for: C:\coding\icog\Scala\Side_effect.scala
+2025.11.09 10:19:23 INFO  no build target found for C:\coding\icog\Scala\Side_effect.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.09 10:19:23 INFO  no build target found for C:\coding\icog\Scala\Side_effect.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.09 10:19:23 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Scala/Side_effect.scala
+2025.11.09 10:19:24 INFO  time: Imported build in 0.17s
+2025.11.09 10:19:25 INFO  compiling icog_0c32c0c7a5 (1 scala source)
+2025.11.09 10:19:25 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Scala/Side_effect.scala
+Nov 09, 2025 10:19:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 146
+2025.11.09 10:19:26 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Scala/Side_effect.scala
+2025.11.09 10:19:27 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Scala/Side_effect.scala
+2025.11.09 10:19:28 INFO  time: compiled icog_0c32c0c7a5 in 2.77s
+2025.11.09 10:19:31 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Scala/Side_effect.scala
+2025.11.09 10:19:34 INFO  time: indexed workspace in 9.45s
+2025.11.09 10:19:34 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Scala/Side_effect.scala
+2025.11.09 10:19:56 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Scala/Side_effect.scala
+2025.11.09 10:20:11 INFO  compiling icog_0c32c0c7a5 (1 scala source)
+2025.11.09 10:20:12 INFO  time: compiled icog_0c32c0c7a5 in 1.51s
+2025.11.09 10:20:29 INFO  no build target found for C:\coding\icog\Scala\Cafe.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.09 10:20:29 WARN  no build target for: C:\coding\icog\Scala\Cafe.scala
+2025.11.09 10:20:29 INFO  Cancelling compilation on scala-cli server
+2025.11.09 10:20:30 INFO  time: Imported build in 0.12s
+2025.11.09 10:20:30 INFO  compiling icog_0c32c0c7a5 (2 scala sources)
+2025.11.09 10:20:30 INFO  Deduplicating compilation of icog_0c32c0c7a5 from bsp client 'scala-cli 1.10.0' (since 19m 41.316s)
+2025.11.09 10:20:30 INFO  compiling icog_0c32c0c7a5 (2 scala sources)
+2025.11.09 10:20:32 INFO  time: compiled icog_0c32c0c7a5 in 2.02s
+2025.11.09 10:20:35 INFO  time: indexed workspace in 5.09s
+Nov 09, 2025 10:20:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 371
+Nov 09, 2025 10:20:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 397
+Nov 09, 2025 10:21:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 731
+Nov 09, 2025 10:21:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 800
+2025.11.09 10:22:07 INFO  compiling icog_0c32c0c7a5 (1 scala source)
+2025.11.09 10:22:07 INFO  time: compiled icog_0c32c0c7a5 in 0.95s
+2025.11.09 10:22:46 INFO  file:///C:/coding/icog/Scala/Cafe.scala:3:23: stale bloop error: Not found: type CreditCard
+    def buyCoffee (cc:CreditCard):
+                      ^^^^^^^^^^
+2025.11.09 10:22:46 INFO  file:///C:/coding/icog/Scala/Cafe.scala:4:8: stale bloop error: Not found: type Coffee
+       Coffee ={
+       ^^^^^^
+2025.11.09 10:22:46 INFO  file:///C:/coding/icog/Scala/Cafe.scala:5:27: stale bloop error: Not found: type Coffee
+            val cup = new Coffee
+                          ^^^^^^
+2025.11.09 10:22:46 INFO  file:///C:/coding/icog/Scala/Cafe.scala:6:31: stale bloop error: Not found: type CoffeeShop
+            val receipt = new CoffeeShop().charge(cc, cup.price)
+                              ^^^^^^^^^^
+2025.11.09 10:22:46 INFO  file:///C:/coding/icog/Scala/Cafe.scala:3:23: stale bloop error: Not found: type CreditCard
+    def buyCoffee (cc:CreditCard):
+                      ^^^^^^^^^^
+2025.11.09 10:22:46 INFO  file:///C:/coding/icog/Scala/Cafe.scala:4:8: stale bloop error: Not found: type Coffee
+       Coffee ={
+       ^^^^^^
+2025.11.09 10:22:46 INFO  file:///C:/coding/icog/Scala/Cafe.scala:5:27: stale bloop error: Not found: type Coffee
+            val cup = new Coffee
+                          ^^^^^^
+2025.11.09 10:22:46 INFO  file:///C:/coding/icog/Scala/Cafe.scala:6:31: stale bloop error: Not found: type CoffeeShop
+            val receipt = new CoffeeShop().charge(cc, cup.price)
+                              ^^^^^^^^^^
+2025.11.09 10:22:47 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Scala/Cafe.scala
+2025.11.09 10:22:47 INFO  compiling icog_0c32c0c7a5 (1 scala source)
+2025.11.09 10:22:47 INFO  time: compiled icog_0c32c0c7a5 in 0.26s
+2025.11.09 10:22:47 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Scala/Cafe.scala
+2025.11.09 10:22:47 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Scala/Cafe.scala
+2025.11.09 10:22:48 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Scala/Cafe.scala
+2025.11.09 10:22:48 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Scala/Cafe.scala
+2025.11.09 10:22:48 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Scala/Cafe.scala
+2025.11.09 10:22:49 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Scala/Cafe.scala
+2025.11.09 10:22:50 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Scala/Cafe.scala
+2025.11.09 10:22:50 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Scala/Cafe.scala
+2025.11.09 10:22:50 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Scala/Cafe.scala
+2025.11.09 10:22:51 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Scala/Cafe.scala
+2025.11.09 10:22:51 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Scala/Cafe.scala
+Nov 09, 2025 10:23:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1345
+2025.11.09 10:23:59 INFO  compiling icog_0c32c0c7a5 (1 scala source)
+2025.11.09 10:23:59 INFO  time: compiled icog_0c32c0c7a5 in 0.45s
+2025.11.09 10:24:00 WARN  Could not load snapshot text for C:\coding\icog\Scala\Cafe.scala
+2025.11.09 10:24:01 WARN  Could not load snapshot text for C:\coding\icog\Scala\Cafe.scala
+2025.11.09 10:24:02 WARN  Could not load snapshot text for C:\coding\icog\Scala\Cafe.scala
+2025.11.09 10:24:05 WARN  Could not load snapshot text for C:\coding\icog\Scala\Cafe.scala
+2025.11.09 10:24:06 WARN  Could not load snapshot text for C:\coding\icog\Scala\Cafe.scala
+2025.11.09 10:24:12 WARN  Could not load snapshot text for C:\coding\icog\Scala\Cafe.scala
+2025.11.09 10:24:20 WARN  Could not load snapshot text for C:\coding\icog\Scala\Cafe.scala
+2025.11.09 10:24:21 WARN  Could not load snapshot text for C:\coding\icog\Scala\Cafe.scala
+2025.11.09 10:24:22 WARN  Could not load snapshot text for C:\coding\icog\Scala\Cafe.scala
+2025.11.09 10:24:24 WARN  Could not load snapshot text for C:\coding\icog\Scala\Cafe.scala
+2025.11.09 10:25:45 WARN  Could not load snapshot text for C:\coding\icog\Scala\Cafe.scala
+2025.11.09 10:25:47 WARN  Could not load snapshot text for C:\coding\icog\Scala\Cafe.scala
+2025.11.09 10:26:11 WARN  Could not load snapshot text for C:\coding\icog\Scala\Cafe.scala
+Nov 09, 2025 10:26:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1657
+2025.11.09 10:27:04 WARN  Could not load snapshot text for C:\coding\icog\Scala\Cafe.scala
+2025.11.09 11:32:41 WARN  Could not load snapshot text for C:\coding\icog\Scala\Cafe.scala
+2025.11.09 11:32:45 WARN  Could not load snapshot text for C:\coding\icog\Scala\Cafe.scala
+2025.11.09 11:38:38 WARN  Could not load snapshot text for C:\coding\icog\Scala\Cafe.scala
+2025.11.09 11:38:50 WARN  Could not load snapshot text for C:\coding\icog\Scala\Cafe.scala
+2025.11.09 11:38:54 WARN  Could not load snapshot text for C:\coding\icog\Scala\Cafe.scala
+Nov 09, 2025 11:39:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1739
+Nov 09, 2025 11:39:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1741
+Nov 09, 2025 11:39:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1742
+Nov 09, 2025 11:39:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1743
+Nov 09, 2025 11:39:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1746
+Nov 09, 2025 11:39:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1748
+Nov 09, 2025 11:39:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1749
+Nov 09, 2025 11:39:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1750
+Nov 09, 2025 11:39:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1751
+Nov 09, 2025 11:39:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1752
+Nov 09, 2025 11:39:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1754
+Nov 09, 2025 11:39:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1760
+Nov 09, 2025 11:39:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1761
+Nov 09, 2025 11:39:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1762
+2025.11.09 11:39:32 WARN  Could not load snapshot text for C:\coding\icog\Scala\Cafe.scala
+2025.11.09 11:39:36 WARN  Could not load snapshot text for C:\coding\icog\Scala\Cafe.scala
+2025.11.09 11:39:58 WARN  Could not load snapshot text for C:\coding\icog\Scala\Cafe.scala
+2025.11.09 11:39:59 WARN  Could not load snapshot text for C:\coding\icog\Scala\Cafe.scala
+2025.11.09 11:40:07 WARN  Could not load snapshot text for C:\coding\icog\Scala\Cafe.scala
+2025.11.09 15:30:53 WARN  Could not load snapshot text for C:\coding\icog\Scala\Cafe.scala
+2025.11.09 15:31:01 INFO  Shutting down server
+2025.11.09 15:31:01 INFO  shutting down Metals
+2025.11.09 15:31:01 INFO  Shut down connection with build server.
+2025.11.09 15:31:01 INFO  BSP server: Nov 09, 2025 3:31:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+2025.11.09 15:31:01 INFO  Exiting server
