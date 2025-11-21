@@ -1525,3 +1525,77 @@ WARNING: Unmatched cancel notification for request id 1661
 2025.11.21 22:23:35 INFO  compiling icog_0c32c0c7a5 (1 scala source)
 2025.11.21 22:23:39 INFO  time: compiled icog_0c32c0c7a5 in 3.63s
 2025.11.21 22:23:42 INFO  time: indexed workspace in 7.62s
+2025.11.21 22:28:25 INFO  no build target found for C:\coding\icog\Exercise\Exercise3_1.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.21 22:28:25 WARN  no build target for: C:\coding\icog\Exercise\Exercise3_1.scala
+2025.11.21 22:28:25 INFO  no build target found for C:\coding\icog\Exercise\Exercise3_1.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.21 22:28:25 INFO  no build target found for C:\coding\icog\Exercise\Exercise3_1.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.21 22:28:26 INFO  time: Imported build in 0.11s
+2025.11.21 22:28:26 INFO  compiling icog_0c32c0c7a5 (1 scala source)
+2025.11.21 22:28:27 INFO  time: compiled icog_0c32c0c7a5 in 1.18s
+2025.11.21 22:28:31 INFO  time: indexed workspace in 5.35s
+2025.11.21 22:28:32 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise3_1.scala
+2025.11.21 22:31:52 INFO  no build target found for C:\coding\icog\Exercise\Exercise3_2.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.21 22:31:52 WARN  no build target for: C:\coding\icog\Exercise\Exercise3_2.scala
+2025.11.21 22:31:52 INFO  no build target found for C:\coding\icog\Exercise\Exercise3_2.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.21 22:31:52 INFO  no build target found for C:\coding\icog\Exercise\Exercise3_2.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.21 22:31:53 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise3_2.scala
+2025.11.21 22:31:53 INFO  no build target found for C:\coding\icog\Exercise\Exercise3_2.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.21 22:31:52 INFO  time: Imported build in 0.11s
+2025.11.21 22:31:53 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise3_2.scala
+2025.11.21 22:31:53 INFO  compiling icog_0c32c0c7a5 (1 scala source)
+2025.11.21 22:31:53 INFO  time: compiled icog_0c32c0c7a5 in 0.86s
+2025.11.21 22:31:58 INFO  time: indexed workspace in 5s
+2025.11.21 22:31:59 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise3_2.scala
+2025.11.21 22:46:30 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise3_2.scala
+2025.11.21 22:46:31 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise3_2.scala
+Nov 21, 2025 10:46:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1975
+Nov 21, 2025 10:46:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1976
+Nov 21, 2025 10:46:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1977
+Nov 21, 2025 10:46:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1978
+Nov 21, 2025 10:46:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1979
+Nov 21, 2025 10:46:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1980
+Nov 21, 2025 10:46:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1981
+2025.11.21 22:46:54 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise3_2.scala
+2025.11.21 22:46:55 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise3_2.scala
+2025.11.21 22:46:58 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise3_2.scala
+2025.11.21 22:46:58 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise3_2.scala
+2025.11.21 22:47:03 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise3_2.scala
+2025.11.21 22:47:05 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise3_2.scala
+Nov 21, 2025 10:47:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2393
+Nov 21, 2025 10:47:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2481
+Nov 21, 2025 10:48:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2526
+Nov 21, 2025 10:48:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2555
+Nov 21, 2025 10:48:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2569
+Nov 21, 2025 10:48:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2596
+Nov 21, 2025 10:49:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2747
+Nov 21, 2025 10:49:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2788
+Nov 21, 2025 10:49:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2855
+2025.11.21 22:49:39 INFO  compiling icog_0c32c0c7a5 (1 scala source)
+2025.11.21 22:49:44 INFO  time: compiled icog_0c32c0c7a5 in 4.32s
+2025.11.21 22:51:07 INFO  compiling icog_0c32c0c7a5 (1 scala source)
+2025.11.21 22:51:09 INFO  time: compiled icog_0c32c0c7a5 in 2.9s
+2025.11.21 22:54:00 INFO  no build target found for C:\coding\icog\Exercise\Exercise3_3.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.21 22:54:00 WARN  no build target for: C:\coding\icog\Exercise\Exercise3_3.scala
+2025.11.21 22:54:00 INFO  no build target found for C:\coding\icog\Exercise\Exercise3_3.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.21 22:54:01 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise3_3.scala
+2025.11.21 22:54:01 INFO  compiling icog_0c32c0c7a5 (1 scala source)
+2025.11.21 22:54:02 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise3_3.scala
+2025.11.21 22:54:01 INFO  time: compiled icog_0c32c0c7a5 in 0.59s
+2025.11.21 22:54:06 INFO  time: indexed workspace in 5.21s
+2025.11.21 22:54:07 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise3_3.scala
