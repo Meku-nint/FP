@@ -1,4 +1,5 @@
 // this exercise is to demonstrate how to use higher-order functions and polymorphism in Scala works.
+// extends App to allow running without a main method
 object Exercise2_2 extends App {
     def isSorted[A](as:Array[A],ordered:(A,A)=>Boolean):Boolean={
         @annotation.tailrec
