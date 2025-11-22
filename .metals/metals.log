@@ -1599,3 +1599,4 @@ WARNING: Unmatched cancel notification for request id 2855
 2025.11.21 22:54:01 INFO  time: compiled icog_0c32c0c7a5 in 0.59s
 2025.11.21 22:54:06 INFO  time: indexed workspace in 5.21s
 2025.11.21 22:54:07 WARN  Could not find semantic tokens for: file:///C:/coding/icog/Exercise/Exercise3_3.scala
+2025.11.21 23:10:13 INFO  compiling icog_0c32c0c7a5 (1 scala source)
